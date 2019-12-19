@@ -1,0 +1,14 @@
+[uDD::Log][2019-12-19 20:00:03] Start
+[uDD::Log][2019-12-19 20:00:03] OS Version    : 10.0
+[uDD::Log][2019-12-19 20:00:03] Build Number  : 18362
+[uDD::Log][2019-12-19 20:00:03] Service Pack  : 
+[uDD::Log][2019-12-19 20:00:03] Graphics Card [0] : Intel(R) HD Graphics 520
+[uDD::Log][2019-12-19 20:00:03]   > Monitor[0] : \\.\DISPLAY1
+[uDD::Log][2019-12-19 20:00:03] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2019-12-19 20:00:03] Monitor::Initialized() =>
+[uDD::Log][2019-12-19 20:00:03]     ID    : 0
+[uDD::Log][2019-12-19 20:00:03]     Size  : (2736, 1824)
+[uDD::Log][2019-12-19 20:00:03]     DPI   : (267, 267)
+[uDD::Log][2019-12-19 20:00:03]     Rot   : Landscape
+[uDD::Log][2019-12-19 20:00:03] Duplicator::Initialize() => OK.
+[uDD::Log][2019-12-19 20:00:05] Stop
